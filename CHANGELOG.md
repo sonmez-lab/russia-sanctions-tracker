@@ -3,3 +3,4 @@
 All notable changes to this project.
 
 - [2025-02-27] Update: AML risk assessment methodology
+- [2025-02-27] Research: DeFi compliance requirements
