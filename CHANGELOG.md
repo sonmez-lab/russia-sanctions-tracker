@@ -6,3 +6,4 @@ All notable changes to this project.
 - [2025-02-27] Research: DeFi compliance requirements
 - [2025-02-27] Add: transaction risk scoring model
 - [2025-02-27] Research: cross-border transaction monitoring
+- [2025-02-28] Update: OFAC SDN list integration
