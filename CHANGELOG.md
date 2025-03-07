@@ -14,3 +14,4 @@ All notable changes to this project.
 - [2025-03-05] Docs: API integration guidelines
 - [2025-03-05] Add: sanctions screening documentation
 - [2025-03-05] Add: sanctions screening documentation
+- [2025-03-06] Research: cross-border transaction monitoring
