@@ -22,3 +22,4 @@ All notable changes to this project.
 - [2025-03-07] Research: cross-border transaction monitoring
 - [2025-03-07] Analysis: FATF travel rule implementation
 - [2025-03-08] Fix: address validation edge cases
+- [2025-03-09] Add: smart contract audit findings
