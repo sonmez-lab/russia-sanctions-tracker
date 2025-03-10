@@ -25,3 +25,4 @@ All notable changes to this project.
 - [2025-03-09] Add: smart contract audit findings
 - [2025-03-10] Update: KYC/KYT process documentation
 - [2025-03-10] Update: AML risk assessment methodology
+- [2025-03-10] Add: sanctions screening documentation
