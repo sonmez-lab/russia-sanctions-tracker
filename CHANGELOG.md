@@ -29,3 +29,4 @@ All notable changes to this project.
 - [2025-03-10] Research: DeFi compliance requirements
 - [2025-03-11] Update: watchlist matching algorithm
 - [2025-03-12] Docs: API integration guidelines
+- [2025-03-12] Add: sanctions screening documentation
