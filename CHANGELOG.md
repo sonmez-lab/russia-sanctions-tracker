@@ -31,3 +31,4 @@ All notable changes to this project.
 - [2025-03-12] Docs: API integration guidelines
 - [2025-03-12] Add: sanctions screening documentation
 - [2025-03-13] Update: KYC/KYT process documentation
+- [2025-03-13] Research: DeFi compliance requirements
