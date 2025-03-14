@@ -33,3 +33,4 @@ All notable changes to this project.
 - [2025-03-13] Update: KYC/KYT process documentation
 - [2025-03-13] Research: DeFi compliance requirements
 - [2025-03-13] Fix: address validation edge cases
+- [2025-03-14] Research: blockchain compliance analysis
