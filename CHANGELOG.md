@@ -37,3 +37,4 @@ All notable changes to this project.
 - [2025-03-15] Research: blockchain compliance analysis
 - [2025-03-15] Update: watchlist matching algorithm
 - [2025-03-16] Add: transaction risk scoring model
+- [2025-03-17] Update: KYC/KYT process documentation
