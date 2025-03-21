@@ -42,3 +42,4 @@ All notable changes to this project.
 - [2025-03-18] Research: DeFi compliance requirements
 - [2025-03-20] Fix: address validation edge cases
 - [2025-03-20] Research: cross-border transaction monitoring
+- [2025-03-21] Add: transaction risk scoring model
