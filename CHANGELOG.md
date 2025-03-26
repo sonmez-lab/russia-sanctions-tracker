@@ -51,3 +51,4 @@ All notable changes to this project.
 - [2025-03-24] Update: AML risk assessment methodology
 - [2025-03-25] Update: AML risk assessment methodology
 - [2025-03-25] Update: KYC/KYT process documentation
+- [2025-03-25] Add: transaction risk scoring model
