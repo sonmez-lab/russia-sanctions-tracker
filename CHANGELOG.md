@@ -60,3 +60,4 @@ All notable changes to this project.
 - [2025-03-30] Update: watchlist matching algorithm
 - [2025-04-01] Research: blockchain compliance analysis
 - [2025-04-02] Analysis: FATF travel rule implementation
+- [2025-04-02] Analysis: FATF travel rule implementation
