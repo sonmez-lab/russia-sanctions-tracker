@@ -62,3 +62,4 @@ All notable changes to this project.
 - [2025-04-02] Analysis: FATF travel rule implementation
 - [2025-04-02] Analysis: FATF travel rule implementation
 - [2025-04-02] Add: transaction risk scoring model
+- [2025-04-02] Research: cross-border transaction monitoring
