@@ -64,3 +64,4 @@ All notable changes to this project.
 - [2025-04-02] Add: transaction risk scoring model
 - [2025-04-02] Research: cross-border transaction monitoring
 - [2025-04-03] Docs: regulatory framework notes
+- [2025-04-03] Add: sanctions screening documentation
