@@ -65,3 +65,4 @@ All notable changes to this project.
 - [2025-04-02] Research: cross-border transaction monitoring
 - [2025-04-03] Docs: regulatory framework notes
 - [2025-04-03] Add: sanctions screening documentation
+- [2025-04-04] Update: AML risk assessment methodology
