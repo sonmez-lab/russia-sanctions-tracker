@@ -79,3 +79,4 @@ All notable changes to this project.
 - [2025-04-11] Research: cross-border transaction monitoring
 - [2025-04-11] Docs: API integration guidelines
 - [2025-04-11] Update: KYC/KYT process documentation
+- [2025-04-11] Research: DeFi compliance requirements
