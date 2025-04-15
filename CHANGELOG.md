@@ -81,3 +81,4 @@ All notable changes to this project.
 - [2025-04-11] Update: KYC/KYT process documentation
 - [2025-04-11] Research: DeFi compliance requirements
 - [2025-04-14] Refactor: compliance validation logic
+- [2025-04-15] Update: AML risk assessment methodology
