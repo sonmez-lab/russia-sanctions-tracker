@@ -80,3 +80,4 @@ All notable changes to this project.
 - [2025-04-11] Docs: API integration guidelines
 - [2025-04-11] Update: KYC/KYT process documentation
 - [2025-04-11] Research: DeFi compliance requirements
+- [2025-04-14] Refactor: compliance validation logic
