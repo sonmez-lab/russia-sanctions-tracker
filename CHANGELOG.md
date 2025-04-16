@@ -84,3 +84,4 @@ All notable changes to this project.
 - [2025-04-15] Update: AML risk assessment methodology
 - [2025-04-15] Analysis: FATF travel rule implementation
 - [2025-04-16] Docs: API integration guidelines
+- [2025-04-16] Add: sanctions screening documentation
