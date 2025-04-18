@@ -85,3 +85,4 @@ All notable changes to this project.
 - [2025-04-15] Analysis: FATF travel rule implementation
 - [2025-04-16] Docs: API integration guidelines
 - [2025-04-16] Add: sanctions screening documentation
+- [2025-04-17] Update: watchlist matching algorithm
