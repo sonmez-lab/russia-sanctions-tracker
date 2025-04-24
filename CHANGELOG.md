@@ -96,3 +96,4 @@ All notable changes to this project.
 - [2025-04-22] Docs: regulatory framework notes
 - [2025-04-23] Docs: API integration guidelines
 - [2025-04-23] Refactor: compliance validation logic
+- [2025-04-24] Update: watchlist matching algorithm
