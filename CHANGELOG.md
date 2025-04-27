@@ -100,3 +100,4 @@ All notable changes to this project.
 - [2025-04-24] Research: DeFi compliance requirements
 - [2025-04-24] Update: AML risk assessment methodology
 - [2025-04-24] Update: AML risk assessment methodology
+- [2025-04-26] Research: cross-border transaction monitoring
