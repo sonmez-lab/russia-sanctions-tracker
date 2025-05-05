@@ -110,3 +110,4 @@ All notable changes to this project.
 - [2025-05-01] Update: OFAC SDN list integration
 - [2025-05-01] Update: KYC/KYT process documentation
 - [2025-05-05] Add: sanctions screening documentation
+- [2025-05-05] Update: OFAC SDN list integration
