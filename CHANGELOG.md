@@ -122,3 +122,4 @@ All notable changes to this project.
 - [2025-05-09] Research: DeFi compliance requirements
 - [2025-05-09] Docs: regulatory framework notes
 - [2025-05-10] Research: blockchain compliance analysis
+- [2025-05-10] Fix: address validation edge cases
