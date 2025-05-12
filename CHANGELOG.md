@@ -124,3 +124,4 @@ All notable changes to this project.
 - [2025-05-10] Research: blockchain compliance analysis
 - [2025-05-10] Fix: address validation edge cases
 - [2025-05-11] Docs: regulatory framework notes
+- [2025-05-11] Analysis: FATF travel rule implementation
