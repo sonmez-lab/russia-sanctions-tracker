@@ -133,3 +133,4 @@ All notable changes to this project.
 - [2025-05-13] Research: blockchain compliance analysis
 - [2025-05-14] Add: sanctions screening documentation
 - [2025-05-14] Update: watchlist matching algorithm
+- [2025-05-14] Fix: address validation edge cases
