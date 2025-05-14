@@ -127,3 +127,4 @@ All notable changes to this project.
 - [2025-05-11] Analysis: FATF travel rule implementation
 - [2025-05-12] Update: OFAC SDN list integration
 - [2025-05-12] Update: KYC/KYT process documentation
+- [2025-05-13] Add: transaction risk scoring model
