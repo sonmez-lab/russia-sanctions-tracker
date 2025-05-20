@@ -141,3 +141,4 @@ All notable changes to this project.
 - [2025-05-20] Research: DeFi compliance requirements
 - [2025-05-20] Update: AML risk assessment methodology
 - [2025-05-20] Update: AML risk assessment methodology
+- [2025-05-20] Update: watchlist matching algorithm
