@@ -135,3 +135,4 @@ All notable changes to this project.
 - [2025-05-14] Update: watchlist matching algorithm
 - [2025-05-14] Fix: address validation edge cases
 - [2025-05-19] Add: smart contract audit findings
+- [2025-05-19] Update: KYC/KYT process documentation
