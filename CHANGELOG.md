@@ -138,3 +138,4 @@ All notable changes to this project.
 - [2025-05-19] Update: KYC/KYT process documentation
 - [2025-05-19] Add: sanctions screening documentation
 - [2025-05-19] Add: smart contract audit findings
+- [2025-05-20] Research: DeFi compliance requirements
