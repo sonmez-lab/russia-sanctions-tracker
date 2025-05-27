@@ -159,3 +159,4 @@ All notable changes to this project.
 - [2025-05-27] Refactor: compliance validation logic
 - [2025-05-27] Update: OFAC SDN list integration
 - [2025-05-27] Docs: API integration guidelines
+- [2025-05-27] Research: blockchain compliance analysis
