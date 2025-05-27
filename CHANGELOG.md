@@ -156,3 +156,4 @@ All notable changes to this project.
 - [2025-05-26] Docs: regulatory framework notes
 - [2025-05-26] Update: OFAC SDN list integration
 - [2025-05-26] Add: sanctions screening documentation
+- [2025-05-27] Refactor: compliance validation logic
