@@ -160,3 +160,4 @@ All notable changes to this project.
 - [2025-05-27] Update: OFAC SDN list integration
 - [2025-05-27] Docs: API integration guidelines
 - [2025-05-27] Research: blockchain compliance analysis
+- [2025-05-28] Update: watchlist matching algorithm
