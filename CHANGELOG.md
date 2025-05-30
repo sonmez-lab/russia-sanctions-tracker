@@ -162,3 +162,4 @@ All notable changes to this project.
 - [2025-05-27] Research: blockchain compliance analysis
 - [2025-05-28] Update: watchlist matching algorithm
 - [2025-05-29] Fix: address validation edge cases
+- [2025-05-30] Research: DeFi compliance requirements
