@@ -167,3 +167,4 @@ All notable changes to this project.
 - [2025-05-31] Research: blockchain compliance analysis
 - [2025-05-31] Docs: regulatory framework notes
 - [2025-06-01] Update: watchlist matching algorithm
+- [2025-06-02] Docs: regulatory framework notes
