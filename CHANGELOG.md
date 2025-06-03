@@ -169,3 +169,4 @@ All notable changes to this project.
 - [2025-06-01] Update: watchlist matching algorithm
 - [2025-06-02] Docs: regulatory framework notes
 - [2025-06-03] Research: DeFi compliance requirements
+- [2025-06-03] Docs: API integration guidelines
