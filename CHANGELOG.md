@@ -175,3 +175,4 @@ All notable changes to this project.
 - [2025-06-04] Research: blockchain compliance analysis
 - [2025-06-05] Fix: address validation edge cases
 - [2025-06-05] Refactor: compliance validation logic
+- [2025-06-06] Update: AML risk assessment methodology
