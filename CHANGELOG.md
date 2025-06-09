@@ -180,3 +180,4 @@ All notable changes to this project.
 - [2025-06-06] Research: blockchain compliance analysis
 - [2025-06-06] Add: smart contract audit findings
 - [2025-06-08] Research: cross-border transaction monitoring
+- [2025-06-09] Update: OFAC SDN list integration
