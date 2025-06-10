@@ -182,3 +182,4 @@ All notable changes to this project.
 - [2025-06-08] Research: cross-border transaction monitoring
 - [2025-06-09] Update: OFAC SDN list integration
 - [2025-06-09] Research: cross-border transaction monitoring
+- [2025-06-09] Add: transaction risk scoring model
