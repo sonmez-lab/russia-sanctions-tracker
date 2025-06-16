@@ -193,3 +193,4 @@ All notable changes to this project.
 - [2025-06-13] Update: OFAC SDN list integration
 - [2025-06-15] Fix: address validation edge cases
 - [2025-06-15] Update: watchlist matching algorithm
+- [2025-06-16] Research: blockchain compliance analysis
