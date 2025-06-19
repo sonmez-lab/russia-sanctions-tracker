@@ -200,3 +200,4 @@ All notable changes to this project.
 - [2025-06-18] Research: blockchain compliance analysis
 - [2025-06-18] Research: DeFi compliance requirements
 - [2025-06-19] Analysis: FATF travel rule implementation
+- [2025-06-19] Research: DeFi compliance requirements
