@@ -202,3 +202,4 @@ All notable changes to this project.
 - [2025-06-19] Analysis: FATF travel rule implementation
 - [2025-06-19] Research: DeFi compliance requirements
 - [2025-06-20] Update: AML risk assessment methodology
+- [2025-06-20] Update: watchlist matching algorithm
