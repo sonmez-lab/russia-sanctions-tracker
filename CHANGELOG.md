@@ -206,3 +206,4 @@ All notable changes to this project.
 - [2025-06-20] Fix: address validation edge cases
 - [2025-06-21] Research: DeFi compliance requirements
 - [2025-06-21] Add: sanctions screening documentation
+- [2025-06-23] Refactor: compliance validation logic
