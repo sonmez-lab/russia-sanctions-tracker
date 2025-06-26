@@ -217,3 +217,4 @@ All notable changes to this project.
 - [2025-06-25] Update: AML risk assessment methodology
 - [2025-06-25] Analysis: FATF travel rule implementation
 - [2025-06-26] Add: sanctions screening documentation
+- [2025-06-26] Research: cross-border transaction monitoring
