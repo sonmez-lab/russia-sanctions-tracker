@@ -212,3 +212,4 @@ All notable changes to this project.
 - [2025-06-24] Update: OFAC SDN list integration
 - [2025-06-24] Docs: regulatory framework notes
 - [2025-06-24] Update: KYC/KYT process documentation
+- [2025-06-25] Research: DeFi compliance requirements
