@@ -234,3 +234,4 @@ All notable changes to this project.
 - [2025-07-03] Research: blockchain compliance analysis
 - [2025-07-03] Analysis: FATF travel rule implementation
 - [2025-07-03] Refactor: compliance validation logic
+- [2025-07-05] Add: transaction risk scoring model
