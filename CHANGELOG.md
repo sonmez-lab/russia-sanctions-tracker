@@ -240,3 +240,4 @@ All notable changes to this project.
 - [2025-07-06] Update: KYC/KYT process documentation
 - [2025-07-07] Add: transaction risk scoring model
 - [2025-07-07] Research: blockchain compliance analysis
+- [2025-07-08] Update: OFAC SDN list integration
