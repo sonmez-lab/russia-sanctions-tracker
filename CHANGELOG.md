@@ -245,3 +245,4 @@ All notable changes to this project.
 - [2025-07-08] Add: sanctions screening documentation
 - [2025-07-09] Update: watchlist matching algorithm
 - [2025-07-09] Research: DeFi compliance requirements
+- [2025-07-09] Add: transaction risk scoring model
