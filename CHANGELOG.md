@@ -253,3 +253,4 @@ All notable changes to this project.
 - [2025-07-11] Research: blockchain compliance analysis
 - [2025-07-11] Refactor: compliance validation logic
 - [2025-07-12] Add: sanctions screening documentation
+- [2025-07-13] Update: AML risk assessment methodology
