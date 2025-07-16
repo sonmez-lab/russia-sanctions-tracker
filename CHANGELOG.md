@@ -263,3 +263,4 @@ All notable changes to this project.
 - [2025-07-16] Refactor: compliance validation logic
 - [2025-07-16] Update: watchlist matching algorithm
 - [2025-07-16] Research: blockchain compliance analysis
+- [2025-07-16] Update: AML risk assessment methodology
