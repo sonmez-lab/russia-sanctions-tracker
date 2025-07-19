@@ -267,3 +267,4 @@ All notable changes to this project.
 - [2025-07-17] Analysis: FATF travel rule implementation
 - [2025-07-17] Docs: regulatory framework notes
 - [2025-07-17] Fix: address validation edge cases
+- [2025-07-18] Docs: API integration guidelines
