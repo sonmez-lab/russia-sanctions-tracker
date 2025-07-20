@@ -270,3 +270,4 @@ All notable changes to this project.
 - [2025-07-18] Docs: API integration guidelines
 - [2025-07-19] Docs: regulatory framework notes
 - [2025-07-19] Update: AML risk assessment methodology
+- [2025-07-20] Research: cross-border transaction monitoring
