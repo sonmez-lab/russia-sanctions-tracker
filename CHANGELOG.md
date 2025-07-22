@@ -278,3 +278,4 @@ All notable changes to this project.
 - [2025-07-22] Add: smart contract audit findings
 - [2025-07-22] Docs: regulatory framework notes
 - [2025-07-22] Research: blockchain compliance analysis
+- [2025-07-22] Add: sanctions screening documentation
