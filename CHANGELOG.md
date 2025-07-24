@@ -281,3 +281,4 @@ All notable changes to this project.
 - [2025-07-22] Add: sanctions screening documentation
 - [2025-07-23] Add: transaction risk scoring model
 - [2025-07-24] Research: blockchain compliance analysis
+- [2025-07-24] Docs: API integration guidelines
