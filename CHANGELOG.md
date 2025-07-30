@@ -284,3 +284,4 @@ All notable changes to this project.
 - [2025-07-24] Docs: API integration guidelines
 - [2025-07-25] Research: blockchain compliance analysis
 - [2025-07-27] Update: watchlist matching algorithm
+- [2025-07-29] Update: AML risk assessment methodology
