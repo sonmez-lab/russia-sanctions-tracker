@@ -291,3 +291,4 @@ All notable changes to this project.
 - [2025-07-31] Update: AML risk assessment methodology
 - [2025-08-01] Update: AML risk assessment methodology
 - [2025-08-01] Add: transaction risk scoring model
+- [2025-08-01] Docs: API integration guidelines
