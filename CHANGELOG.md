@@ -294,3 +294,4 @@ All notable changes to this project.
 - [2025-08-01] Docs: API integration guidelines
 - [2025-08-01] Docs: regulatory framework notes
 - [2025-08-02] Add: transaction risk scoring model
+- [2025-08-03] Fix: address validation edge cases
