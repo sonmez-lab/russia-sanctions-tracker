@@ -305,3 +305,4 @@ All notable changes to this project.
 - [2025-08-06] Add: sanctions screening documentation
 - [2025-08-08] Refactor: compliance validation logic
 - [2025-08-08] Add: smart contract audit findings
+- [2025-08-08] Fix: address validation edge cases
