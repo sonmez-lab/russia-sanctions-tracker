@@ -308,3 +308,4 @@ All notable changes to this project.
 - [2025-08-08] Fix: address validation edge cases
 - [2025-08-12] Update: watchlist matching algorithm
 - [2025-08-12] Update: KYC/KYT process documentation
+- [2025-08-13] Research: DeFi compliance requirements
