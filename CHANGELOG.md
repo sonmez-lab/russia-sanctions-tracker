@@ -310,3 +310,4 @@ All notable changes to this project.
 - [2025-08-12] Update: KYC/KYT process documentation
 - [2025-08-13] Research: DeFi compliance requirements
 - [2025-08-13] Add: transaction risk scoring model
+- [2025-08-14] Update: AML risk assessment methodology
