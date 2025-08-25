@@ -330,3 +330,4 @@ All notable changes to this project.
 - [2025-08-21] Fix: address validation edge cases
 - [2025-08-22] Analysis: FATF travel rule implementation
 - [2025-08-22] Add: sanctions screening documentation
+- [2025-08-25] Docs: API integration guidelines
