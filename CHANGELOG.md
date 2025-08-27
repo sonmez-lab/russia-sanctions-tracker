@@ -334,3 +334,4 @@ All notable changes to this project.
 - [2025-08-25] Add: transaction risk scoring model
 - [2025-08-25] Fix: address validation edge cases
 - [2025-08-26] Update: OFAC SDN list integration
+- [2025-08-26] Add: sanctions screening documentation
