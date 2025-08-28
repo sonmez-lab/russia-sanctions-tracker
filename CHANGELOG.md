@@ -341,3 +341,4 @@ All notable changes to this project.
 - [2025-08-27] Refactor: compliance validation logic
 - [2025-08-28] Update: watchlist matching algorithm
 - [2025-08-28] Update: KYC/KYT process documentation
+- [2025-08-28] Research: blockchain compliance analysis
