@@ -346,3 +346,4 @@ All notable changes to this project.
 - [2025-08-29] Analysis: FATF travel rule implementation
 - [2025-08-29] Docs: API integration guidelines
 - [2025-08-31] Research: DeFi compliance requirements
+- [2025-08-31] Analysis: FATF travel rule implementation
