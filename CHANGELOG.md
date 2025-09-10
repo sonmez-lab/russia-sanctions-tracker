@@ -365,3 +365,4 @@ All notable changes to this project.
 - [2025-09-09] Update: OFAC SDN list integration
 - [2025-09-09] Refactor: compliance validation logic
 - [2025-09-09] Refactor: compliance validation logic
+- [2025-09-09] Update: watchlist matching algorithm
