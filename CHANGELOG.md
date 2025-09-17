@@ -374,3 +374,4 @@ All notable changes to this project.
 - [2025-09-12] Update: OFAC SDN list integration
 - [2025-09-12] Update: AML risk assessment methodology
 - [2025-09-15] Research: blockchain compliance analysis
+- [2025-09-17] Refactor: compliance validation logic
