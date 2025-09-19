@@ -378,3 +378,4 @@ All notable changes to this project.
 - [2025-09-17] Refactor: compliance validation logic
 - [2025-09-18] Research: cross-border transaction monitoring
 - [2025-09-19] Update: OFAC SDN list integration
+- [2025-09-19] Update: AML risk assessment methodology
