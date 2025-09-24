@@ -386,3 +386,4 @@ All notable changes to this project.
 - [2025-09-22] Fix: address validation edge cases
 - [2025-09-22] Analysis: FATF travel rule implementation
 - [2025-09-23] Update: AML risk assessment methodology
+- [2025-09-24] Add: sanctions screening documentation
