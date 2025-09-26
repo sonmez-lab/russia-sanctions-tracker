@@ -388,3 +388,4 @@ All notable changes to this project.
 - [2025-09-23] Update: AML risk assessment methodology
 - [2025-09-24] Add: sanctions screening documentation
 - [2025-09-24] Research: blockchain compliance analysis
+- [2025-09-26] Add: sanctions screening documentation
