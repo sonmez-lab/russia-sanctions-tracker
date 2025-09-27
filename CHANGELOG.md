@@ -390,3 +390,4 @@ All notable changes to this project.
 - [2025-09-24] Research: blockchain compliance analysis
 - [2025-09-26] Add: sanctions screening documentation
 - [2025-09-26] Update: KYC/KYT process documentation
+- [2025-09-26] Update: watchlist matching algorithm
