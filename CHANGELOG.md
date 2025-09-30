@@ -396,3 +396,4 @@ All notable changes to this project.
 - [2025-09-29] Refactor: compliance validation logic
 - [2025-09-29] Analysis: FATF travel rule implementation
 - [2025-09-29] Add: smart contract audit findings
+- [2025-09-29] Analysis: FATF travel rule implementation
