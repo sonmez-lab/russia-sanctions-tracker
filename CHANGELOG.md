@@ -394,3 +394,4 @@ All notable changes to this project.
 - [2025-09-26] Update: KYC/KYT process documentation
 - [2025-09-27] Update: watchlist matching algorithm
 - [2025-09-29] Refactor: compliance validation logic
+- [2025-09-29] Analysis: FATF travel rule implementation
