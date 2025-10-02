@@ -401,3 +401,4 @@ All notable changes to this project.
 - [2025-09-30] Analysis: FATF travel rule implementation
 - [2025-10-01] Analysis: FATF travel rule implementation
 - [2025-10-02] Research: cross-border transaction monitoring
+- [2025-10-02] Update: KYC/KYT process documentation
