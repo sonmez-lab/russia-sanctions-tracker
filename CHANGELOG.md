@@ -405,3 +405,4 @@ All notable changes to this project.
 - [2025-10-02] Add: smart contract audit findings
 - [2025-10-03] Docs: regulatory framework notes
 - [2025-10-04] Add: transaction risk scoring model
+- [2025-10-04] Add: smart contract audit findings
