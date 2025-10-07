@@ -410,3 +410,4 @@ All notable changes to this project.
 - [2025-10-06] Add: sanctions screening documentation
 - [2025-10-06] Update: watchlist matching algorithm
 - [2025-10-07] Analysis: FATF travel rule implementation
+- [2025-10-07] Update: watchlist matching algorithm
