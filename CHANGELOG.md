@@ -416,3 +416,4 @@ All notable changes to this project.
 - [2025-10-09] Docs: API integration guidelines
 - [2025-10-09] Update: watchlist matching algorithm
 - [2025-10-09] Update: OFAC SDN list integration
+- [2025-10-10] Update: AML risk assessment methodology
