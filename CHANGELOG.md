@@ -420,3 +420,4 @@ All notable changes to this project.
 - [2025-10-10] Research: DeFi compliance requirements
 - [2025-10-12] Docs: API integration guidelines
 - [2025-10-12] Update: watchlist matching algorithm
+- [2025-10-14] Add: smart contract audit findings
