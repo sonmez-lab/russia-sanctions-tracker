@@ -426,3 +426,4 @@ All notable changes to this project.
 - [2025-10-16] Docs: API integration guidelines
 - [2025-10-17] Analysis: FATF travel rule implementation
 - [2025-10-17] Research: blockchain compliance analysis
+- [2025-10-17] Update: KYC/KYT process documentation
