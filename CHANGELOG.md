@@ -429,3 +429,4 @@ All notable changes to this project.
 - [2025-10-17] Update: KYC/KYT process documentation
 - [2025-10-17] Fix: address validation edge cases
 - [2025-10-19] Research: cross-border transaction monitoring
+- [2025-10-20] Fix: address validation edge cases
