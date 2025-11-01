@@ -451,3 +451,4 @@ All notable changes to this project.
 - [2025-10-30] Research: cross-border transaction monitoring
 - [2025-10-30] Update: KYC/KYT process documentation
 - [2025-10-31] Add: sanctions screening documentation
+- [2025-10-31] Update: AML risk assessment methodology
