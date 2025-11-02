@@ -454,3 +454,4 @@ All notable changes to this project.
 - [2025-10-31] Update: AML risk assessment methodology
 - [2025-11-01] Research: DeFi compliance requirements
 - [2025-11-01] Research: blockchain compliance analysis
+- [2025-11-02] Research: cross-border transaction monitoring
