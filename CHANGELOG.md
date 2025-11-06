@@ -462,3 +462,4 @@ All notable changes to this project.
 - [2025-11-04] Update: watchlist matching algorithm
 - [2025-11-04] Analysis: FATF travel rule implementation
 - [2025-11-05] Update: watchlist matching algorithm
+- [2025-11-06] Add: smart contract audit findings
