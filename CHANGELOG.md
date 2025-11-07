@@ -468,3 +468,4 @@ All notable changes to this project.
 - [2025-11-06] Fix: address validation edge cases
 - [2025-11-07] Add: sanctions screening documentation
 - [2025-11-07] Update: AML risk assessment methodology
+- [2025-11-07] Add: smart contract audit findings
