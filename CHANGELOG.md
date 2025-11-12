@@ -472,3 +472,4 @@ All notable changes to this project.
 - [2025-11-08] Research: blockchain compliance analysis
 - [2025-11-11] Update: watchlist matching algorithm
 - [2025-11-11] Docs: API integration guidelines
+- [2025-11-12] Research: cross-border transaction monitoring
