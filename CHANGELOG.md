@@ -484,3 +484,4 @@ All notable changes to this project.
 - [2025-11-17] Refactor: compliance validation logic
 - [2025-11-17] Research: blockchain compliance analysis
 - [2025-11-18] Docs: regulatory framework notes
+- [2025-11-18] Add: sanctions screening documentation
