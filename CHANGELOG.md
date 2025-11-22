@@ -494,3 +494,4 @@ All notable changes to this project.
 - [2025-11-20] Docs: API integration guidelines
 - [2025-11-21] Update: watchlist matching algorithm
 - [2025-11-21] Research: DeFi compliance requirements
+- [2025-11-21] Add: transaction risk scoring model
