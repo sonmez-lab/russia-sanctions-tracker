@@ -515,3 +515,4 @@ All notable changes to this project.
 - [2025-11-28] Fix: address validation edge cases
 - [2025-11-29] Add: transaction risk scoring model
 - [2025-12-01] Add: sanctions screening documentation
+- [2025-12-01] Analysis: FATF travel rule implementation
