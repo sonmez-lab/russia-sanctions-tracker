@@ -522,3 +522,4 @@ All notable changes to this project.
 - [2025-12-03] Add: smart contract audit findings
 - [2025-12-03] Analysis: FATF travel rule implementation
 - [2025-12-04] Add: transaction risk scoring model
+- [2025-12-05] Update: watchlist matching algorithm
