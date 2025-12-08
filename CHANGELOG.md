@@ -524,3 +524,4 @@ All notable changes to this project.
 - [2025-12-04] Add: transaction risk scoring model
 - [2025-12-05] Update: watchlist matching algorithm
 - [2025-12-07] Add: sanctions screening documentation
+- [2025-12-07] Add: smart contract audit findings
