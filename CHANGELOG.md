@@ -537,3 +537,4 @@ All notable changes to this project.
 - [2025-12-13] Research: cross-border transaction monitoring
 - [2025-12-15] Research: blockchain compliance analysis
 - [2025-12-16] Research: blockchain compliance analysis
+- [2025-12-16] Update: OFAC SDN list integration
