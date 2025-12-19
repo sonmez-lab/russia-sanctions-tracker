@@ -543,3 +543,4 @@ All notable changes to this project.
 - [2025-12-17] Update: KYC/KYT process documentation
 - [2025-12-17] Add: transaction risk scoring model
 - [2025-12-17] Update: OFAC SDN list integration
+- [2025-12-18] Docs: API integration guidelines
