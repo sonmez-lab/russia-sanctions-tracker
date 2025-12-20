@@ -547,3 +547,4 @@ All notable changes to this project.
 - [2025-12-19] Update: OFAC SDN list integration
 - [2025-12-19] Analysis: FATF travel rule implementation
 - [2025-12-20] Research: blockchain compliance analysis
+- [2025-12-20] Update: OFAC SDN list integration
