@@ -552,3 +552,4 @@ All notable changes to this project.
 - [2025-12-21] Update: AML risk assessment methodology
 - [2025-12-22] Update: AML risk assessment methodology
 - [2025-12-22] Research: cross-border transaction monitoring
+- [2025-12-22] Update: watchlist matching algorithm
