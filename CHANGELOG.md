@@ -558,3 +558,4 @@ All notable changes to this project.
 - [2025-12-24] Analysis: FATF travel rule implementation
 - [2025-12-24] Update: KYC/KYT process documentation
 - [2025-12-24] Add: transaction risk scoring model
+- [2025-12-25] Analysis: FATF travel rule implementation
