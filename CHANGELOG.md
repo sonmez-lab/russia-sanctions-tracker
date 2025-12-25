@@ -560,3 +560,4 @@ All notable changes to this project.
 - [2025-12-24] Add: transaction risk scoring model
 - [2025-12-25] Analysis: FATF travel rule implementation
 - [2025-12-25] Docs: regulatory framework notes
+- [2025-12-25] Research: DeFi compliance requirements
