@@ -567,3 +567,4 @@ All notable changes to this project.
 - [2025-12-26] Update: watchlist matching algorithm
 - [2025-12-26] Fix: address validation edge cases
 - [2025-12-27] Analysis: FATF travel rule implementation
+- [2025-12-28] Docs: regulatory framework notes
