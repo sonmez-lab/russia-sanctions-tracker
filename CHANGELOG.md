@@ -570,3 +570,4 @@ All notable changes to this project.
 - [2025-12-28] Docs: regulatory framework notes
 - [2025-12-29] Research: DeFi compliance requirements
 - [2025-12-30] Update: KYC/KYT process documentation
+- [2025-12-30] Docs: regulatory framework notes
