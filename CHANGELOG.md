@@ -573,3 +573,4 @@ All notable changes to this project.
 - [2025-12-30] Docs: regulatory framework notes
 - [2026-01-01] Add: sanctions screening documentation
 - [2026-01-01] Refactor: compliance validation logic
+- [2026-01-02] Update: KYC/KYT process documentation
