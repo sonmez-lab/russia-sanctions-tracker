@@ -575,3 +575,4 @@ All notable changes to this project.
 - [2026-01-01] Refactor: compliance validation logic
 - [2026-01-02] Update: KYC/KYT process documentation
 - [2026-01-04] Update: watchlist matching algorithm
+- [2026-01-05] Update: OFAC SDN list integration
