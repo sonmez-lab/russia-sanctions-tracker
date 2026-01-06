@@ -577,3 +577,4 @@ All notable changes to this project.
 - [2026-01-04] Update: watchlist matching algorithm
 - [2026-01-05] Update: OFAC SDN list integration
 - [2026-01-05] Update: KYC/KYT process documentation
+- [2026-01-06] Docs: API integration guidelines
