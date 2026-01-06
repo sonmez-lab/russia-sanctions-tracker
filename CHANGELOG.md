@@ -579,3 +579,4 @@ All notable changes to this project.
 - [2026-01-05] Update: KYC/KYT process documentation
 - [2026-01-06] Docs: API integration guidelines
 - [2026-01-06] Add: smart contract audit findings
+- [2026-01-06] Update: AML risk assessment methodology
