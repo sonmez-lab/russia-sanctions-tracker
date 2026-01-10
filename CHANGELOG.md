@@ -589,3 +589,4 @@ All notable changes to this project.
 - [2026-01-08] Add: smart contract audit findings
 - [2026-01-08] Docs: API integration guidelines
 - [2026-01-08] Update: watchlist matching algorithm
+- [2026-01-09] Update: OFAC SDN list integration
