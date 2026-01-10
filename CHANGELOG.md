@@ -591,3 +591,4 @@ All notable changes to this project.
 - [2026-01-08] Update: watchlist matching algorithm
 - [2026-01-09] Update: OFAC SDN list integration
 - [2026-01-09] Docs: API integration guidelines
+- [2026-01-10] Update: watchlist matching algorithm
