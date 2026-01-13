@@ -595,3 +595,4 @@ All notable changes to this project.
 - [2026-01-12] Analysis: FATF travel rule implementation
 - [2026-01-12] Fix: address validation edge cases
 - [2026-01-12] Research: blockchain compliance analysis
+- [2026-01-12] Refactor: compliance validation logic
