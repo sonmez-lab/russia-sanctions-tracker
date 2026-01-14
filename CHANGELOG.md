@@ -601,3 +601,4 @@ All notable changes to this project.
 - [2026-01-13] Fix: address validation edge cases
 - [2026-01-13] Research: cross-border transaction monitoring
 - [2026-01-14] Add: transaction risk scoring model
+- [2026-01-14] Add: sanctions screening documentation
