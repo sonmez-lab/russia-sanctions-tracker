@@ -607,3 +607,4 @@ All notable changes to this project.
 - [2026-01-15] Update: OFAC SDN list integration
 - [2026-01-15] Refactor: compliance validation logic
 - [2026-01-16] Refactor: compliance validation logic
+- [2026-01-16] Add: sanctions screening documentation
