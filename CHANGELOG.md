@@ -610,3 +610,4 @@ All notable changes to this project.
 - [2026-01-16] Add: sanctions screening documentation
 - [2026-01-16] Research: blockchain compliance analysis
 - [2026-01-16] Research: DeFi compliance requirements
+- [2026-01-18] Docs: API integration guidelines
