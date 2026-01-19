@@ -612,3 +612,4 @@ All notable changes to this project.
 - [2026-01-16] Research: DeFi compliance requirements
 - [2026-01-18] Docs: API integration guidelines
 - [2026-01-18] Research: DeFi compliance requirements
+- [2026-01-19] Refactor: compliance validation logic
