@@ -617,3 +617,4 @@ All notable changes to this project.
 - [2026-01-19] Research: cross-border transaction monitoring
 - [2026-01-19] Update: AML risk assessment methodology
 - [2026-01-20] Update: KYC/KYT process documentation
+- [2026-01-21] Fix: address validation edge cases
