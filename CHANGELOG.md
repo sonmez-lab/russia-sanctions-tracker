@@ -619,3 +619,4 @@ All notable changes to this project.
 - [2026-01-20] Update: KYC/KYT process documentation
 - [2026-01-21] Fix: address validation edge cases
 - [2026-01-21] Fix: address validation edge cases
+- [2026-01-21] Research: DeFi compliance requirements
