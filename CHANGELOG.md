@@ -626,3 +626,4 @@ All notable changes to this project.
 - [2026-01-22] Docs: regulatory framework notes
 - [2026-01-22] Update: AML risk assessment methodology
 - [2026-01-23] Refactor: compliance validation logic
+- [2026-01-23] Docs: regulatory framework notes
