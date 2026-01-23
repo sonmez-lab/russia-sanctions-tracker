@@ -622,3 +622,4 @@ All notable changes to this project.
 - [2026-01-21] Research: DeFi compliance requirements
 - [2026-01-21] Analysis: FATF travel rule implementation
 - [2026-01-22] Docs: regulatory framework notes
+- [2026-01-22] Add: smart contract audit findings
