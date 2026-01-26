@@ -630,3 +630,4 @@ All notable changes to this project.
 - [2026-01-23] Fix: address validation edge cases
 - [2026-01-23] Docs: regulatory framework notes
 - [2026-01-25] Refactor: compliance validation logic
+- [2026-01-26] Docs: regulatory framework notes
