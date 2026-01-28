@@ -633,3 +633,4 @@ All notable changes to this project.
 - [2026-01-26] Docs: regulatory framework notes
 - [2026-01-26] Add: sanctions screening documentation
 - [2026-01-27] Research: cross-border transaction monitoring
+- [2026-01-28] Add: sanctions screening documentation
