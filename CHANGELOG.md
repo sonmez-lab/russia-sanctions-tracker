@@ -638,3 +638,4 @@ All notable changes to this project.
 - [2026-01-29] Update: OFAC SDN list integration
 - [2026-01-29] Research: DeFi compliance requirements
 - [2026-01-30] Add: smart contract audit findings
+- [2026-02-02] Add: smart contract audit findings
