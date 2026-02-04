@@ -642,3 +642,4 @@ All notable changes to this project.
 - [2026-02-02] Analysis: FATF travel rule implementation
 - [2026-02-03] Update: AML risk assessment methodology
 - [2026-02-03] Research: DeFi compliance requirements
+- [2026-02-04] Update: KYC/KYT process documentation
