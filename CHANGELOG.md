@@ -644,3 +644,4 @@ All notable changes to this project.
 - [2026-02-03] Research: DeFi compliance requirements
 - [2026-02-04] Update: KYC/KYT process documentation
 - [2026-02-04] Research: blockchain compliance analysis
+- [2026-02-04] Update: AML risk assessment methodology
