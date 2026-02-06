@@ -646,3 +646,4 @@ All notable changes to this project.
 - [2026-02-04] Research: blockchain compliance analysis
 - [2026-02-04] Update: AML risk assessment methodology
 - [2026-02-04] Refactor: compliance validation logic
+- [2026-02-05] Docs: API integration guidelines
