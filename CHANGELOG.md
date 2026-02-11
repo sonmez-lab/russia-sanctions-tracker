@@ -661,3 +661,4 @@ All notable changes to this project.
 - [2026-02-09] Research: cross-border transaction monitoring
 - [2026-02-09] Refactor: compliance validation logic
 - [2026-02-10] Update: KYC/KYT process documentation
+- [2026-02-10] Update: OFAC SDN list integration
