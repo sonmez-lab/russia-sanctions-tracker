@@ -665,3 +665,4 @@ All notable changes to this project.
 - [2026-02-10] Refactor: compliance validation logic
 - [2026-02-11] Research: blockchain compliance analysis
 - [2026-02-12] Update: KYC/KYT process documentation
+- [2026-02-14] Update: OFAC SDN list integration
