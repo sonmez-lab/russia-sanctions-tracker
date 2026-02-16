@@ -670,3 +670,4 @@ All notable changes to this project.
 - [2026-02-15] Add: transaction risk scoring model
 - [2026-02-16] Add: sanctions screening documentation
 - [2026-02-16] Docs: regulatory framework notes
+- [2026-02-16] Update: KYC/KYT process documentation
