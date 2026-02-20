@@ -677,3 +677,4 @@ All notable changes to this project.
 - [2026-02-18] Refactor: compliance validation logic
 - [2026-02-19] Research: blockchain compliance analysis
 - [2026-02-19] Update: watchlist matching algorithm
+- [2026-02-19] Update: OFAC SDN list integration
