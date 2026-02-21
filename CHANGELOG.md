@@ -678,3 +678,4 @@ All notable changes to this project.
 - [2026-02-19] Research: blockchain compliance analysis
 - [2026-02-19] Update: watchlist matching algorithm
 - [2026-02-19] Update: OFAC SDN list integration
+- [2026-02-20] Research: cross-border transaction monitoring
