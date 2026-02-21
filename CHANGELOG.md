@@ -681,3 +681,4 @@ All notable changes to this project.
 - [2026-02-20] Research: cross-border transaction monitoring
 - [2026-02-20] Update: watchlist matching algorithm
 - [2026-02-20] Refactor: compliance validation logic
+- [2026-02-21] Research: DeFi compliance requirements
