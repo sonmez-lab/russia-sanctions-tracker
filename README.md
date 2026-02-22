@@ -205,6 +205,20 @@ High-risk transactions (mixing/layering):
 - [ ] Turkey-Russia corridor analysis
 - [ ] Machine learning evasion detection
 
+## 👤 Author
+
+**Osman Sönmez**
+
+Blockchain Security Researcher & Legal Tech Specialist | Smart Contract Auditor | Solidity Developer
+
+Bridging the gap between legal compliance and blockchain technology. Specializing in cryptocurrency AML/CFT frameworks, smart contract security audits, and regulatory technology solutions.
+
+- 🌐 Website: [osmansonmez.com](https://osmansonmez.com)
+- 💼 LinkedIn: [linkedin.com/in/sonmezosman](https://www.linkedin.com/in/sonmezosman)
+- 🔐 Focus: Blockchain Security | AML Compliance | Smart Contract Auditing
+
+---
+
 ## 📄 License
 
 MIT License - See [LICENSE](LICENSE) for details.
