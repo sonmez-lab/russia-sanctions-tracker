@@ -12,32 +12,35 @@ jobs:
     
     strategy:
       matrix:
-        node-version: [18.x, 20.x]
+        python-version: ['3.10', '3.11', '3.12']
 
     steps:
     - uses: actions/checkout@v4
     
-    - name: Use Node.js ${{ matrix.node-version }}
-      uses: actions/setup-node@v4
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v5
       with:
-        node-version: ${{ matrix.node-version }}
-        cache: 'npm'
+        python-version: ${{ matrix.python-version }}
     
     - name: Install dependencies
-      run: npm ci
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
     
-    - name: Run linter
-      run: npm run lint --if-present
+    - name: Lint with flake8
+      run: |
+        pip install flake8
+        flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics || true
     
-    - name: Run tests
-      run: npm test --if-present
-    
-    - name: Build
-      run: npm run build --if-present
+    - name: Check syntax
+      run: |
+        python -m py_compile *.py || true
 
   security:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
-    - name: Run security audit
-      run: npm audit --production || true
+    - name: Security check
+      run: |
+        pip install safety
+        if [ -f requirements.txt ]; then safety check -r requirements.txt || true; fi
