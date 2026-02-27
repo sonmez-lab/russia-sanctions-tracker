@@ -1,3 +1,8 @@
+![CI](https://github.com/sonmez-lab/russia-sanctions-tracker/workflows/CI/badge.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![GitHub stars](https://img.shields.io/github/stars/sonmez-lab/russia-sanctions-tracker?style=social)
+![GitHub issues](https://img.shields.io/github/issues/sonmez-lab/russia-sanctions-tracker)
+
 # Russia Sanctions Tracker
 
 ## 👤 Author
